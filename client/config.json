@@ -1,0 +1,7 @@
+{
+    "localListenPort": 22222,
+    "remoteHost": "213.108.14.10",
+    "remoteListenPort": 22,
+    "magicPacket": [98],
+    "expectMagicPacket": [157]
+}
